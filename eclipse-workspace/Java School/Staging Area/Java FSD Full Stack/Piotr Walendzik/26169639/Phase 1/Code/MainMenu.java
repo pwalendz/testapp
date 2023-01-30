@@ -7,7 +7,7 @@ public class MainMenu {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        int choice;
+        int choice = 0;
 
         do {
             System.out.println("Main Menu");
@@ -19,8 +19,13 @@ public class MainMenu {
             System.out.println("6. Display all files in the directory");
             System.out.println("7. Exit");
             System.out.print("Enter your choice: ");
-            choice = input.nextInt();
-
+            try {
+                choice = input.nextInt();
+            } catch (Exception e) {
+                System.out.println("Invalid input. Please enter a number between 1 and 7.");
+                input.nextLine();
+                continue;
+            }
             switch (choice) {
                 case 1:
                     CreateFile.create(filePath);

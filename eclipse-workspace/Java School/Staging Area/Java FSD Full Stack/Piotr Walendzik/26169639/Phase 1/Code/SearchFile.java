@@ -8,7 +8,7 @@ public class SearchFile {
 	    Scanner input = new Scanner(System.in);
 	    int choice;
 	    do {
-	        System.out.print("Enter file name to search: ");
+	        System.out.print("Enter the file name to search: ");
 	        String fileName = input.nextLine().toLowerCase();
 	        File file = new File(filePath + fileName);
 	        if (file.exists()) {
