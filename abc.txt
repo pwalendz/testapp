@@ -1,0 +1,26 @@
+The achievement can be summarized into two steps.
+1. the createion of a Power BI Dashboard that allows users to see how much time is being spent on opportunities.
+2. Creation of Power Automate Flows that distribute the data found in step one via email in a consistent manner that 
+
+A power automate flow was created that sends out weekly emails to 8 recipients as well 10 recipients on a monthly basis. These emails cover data pertaining to 60 opportunities.
+It is currently in a trial period, but when it goes live, we expect to have 60 weekly recipients and 20 monthly recipients and the data to cover 530 opportunities.
+
+The goal of this was to improve efficiency. Meaning the time that is being spent on opportunities and projects reflects the solution compexity and total contract value.
+
+
+The implementation of the automation would help achieve this as the information is sent to the user without adding extra work to the user.
+It allows the recipient to then see the time being spent on opportunities and projects as well as their reflective CoS or OPEX costs so that we can run as efficiently as possible
+it is a way to promote weekly timesheets.
+
+
+to ensure we have a clear understanding of where we are in our delivery versus project budget and to identify potential overspend preferably BEFORE it occurs.  
+
+
+We should all be managing our project financials at minimum on a monthly basis to ensure we have a clear understanding of where we are in our delivery versus project budget and to identify potential overspend preferably BEFORE it occurs.  
+We must also be aware that there may be other booking time to projects that you aren’t aware of which can cause sudden overspend issues.  
+to ensure no erroneous time entries are being made.  
+
+Again I would like all of us to get into the habit of checking these at minimum once monthly to ensure you are aware of the time being spent on opportunities and projects as well as their reflective CoS or OPEX costs so that we can run as efficiently as possible
+
+benefit - the impact that the achievement had in terms of internal efficeincy and/or partner benefit
+Automatization & Standardization - task automation as well as streamlining the business processes produce long term benefits and offer us back time to invest in value added activities.
